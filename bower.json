@@ -1,6 +1,6 @@
 {
   "name": "bootpag",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "bootpag - dynamic pagination jQuery plugin. Works well with bootstrap or standalone.",
   "homepage": "http://botmonster.com/jquery-bootpag",
   "main": "lib/jquery.bootpag.min.js",
